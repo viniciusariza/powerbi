@@ -61,7 +61,7 @@ Foi criada ainda uma quarta página, oculta no menu, onde há análise referente
 
 <br />
 
-Foi inserida ainda uma análise de pareto com o intuito de identificar as marcas que refletem o maior faturamento. O acesso a essa página é feito por meio do botão de informação contido na página de produtos no item “Quantidade vendida por marca”.
+Por fim, foi construída uma análise de Pareto, com o intuito de identificar as marcas que refletem o maior faturamento. O acesso a essa página é feito por meio do botão de informação contido na página de produtos no item “Quantidade vendida por marca”.
 
 <br />
 

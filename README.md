@@ -10,7 +10,7 @@ Acessar relatório: <a href="https://app.powerbi.com/view?r=eyJrIjoiMWVlNzRjNmUt
 
 O relatório desenvolvido contém três páginas, a capa, a página de faturamento e a página de produtos.
 
-Na capa foram inseridos dois botões com o intuito de facilitar a navegção entre os dashboars.
+Na capa foram inseridos dois botões com o intuito de facilitar a navegção entre as páginas.
 
 <br />
 

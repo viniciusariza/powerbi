@@ -3,10 +3,6 @@
 </div>
 
 
-_________________
-
-
-
 ### BikeStores
 
 Acessar relatório: <a href="https://app.powerbi.com/view?r=eyJrIjoiMWVlNzRjNmUtZWZmYy00ZDMyLWFkNzctZmM2MmNmZDg1OGFlIiwidCI6IjkyNzQyZWFlLWExMTktNDNmYi1hOTU2LWQ3ZGVmNzQ0ODgxYSIsImMiOjh9&pageName=ReportSection">BikeStores</a>.
@@ -15,35 +11,42 @@ O relatório desenvolvido contém três páginas, a capa, o dasboard de faturame
 
 Na capa foram inseridos dois botões com o intuito de facilitar a navegção entre os dashboars.
 
+<div align="center" >
+  <img src="BikeStores_page-0001.jpg">
+</div>
+
 Na página de faturamento foram inseridos os itens:
-  • Slicer: Foram adicionados 4 slicers onde é possível realizar filtros por ano, loja, faturamento e cliente.
-  • Gráfico de colunas empilhadas: Faturamento anual das lojas.
-  • Gráfico de área: Faturamento mensal das lojas.
-  • Gráfico de barras empilhadas: Maiores faturamentos por produto e por loja.
-  • Mapa: Localização das lojas onde o tamanho das bolhas é classificado de acordo com o faturamento total de cada loja.
-  • Cartão: Foram adicionados 5 cartões com informações de faturamento, ordens realizadas e enviadas, produtos vendidoes e estoque atual.
+  * Slicer: Foram adicionados 4 slicers onde é possível realizar filtros por ano, loja, faturamento e cliente.
+  * Gráfico de colunas empilhadas: Faturamento anual das lojas.
+  * Gráfico de área: Faturamento mensal das lojas.
+  * Gráfico de barras empilhadas: Maiores faturamentos por produto e por loja.
+  * Mapa: Localização das lojas onde o tamanho das bolhas é classificado de acordo com o faturamento total de cada loja.
+  * Cartão: Foram adicionados 5 cartões com informações de faturamento, ordens realizadas e enviadas, produtos vendidoes e estoque atual.
+
+<div align="center" >
+  <img src="BikeStores_page-0002.jpg">
+</div>
   
 No dashboard de produtos foram inseridos os itens:
-  • Slicer: Foram adicionados 2 slicers onde é possível realizar filtros por ano e loja.
-  • Funil: Quantidade vendida por categoria de produto.
-  • Gráfico de colunas empilhadas: Quantidade vendida por marca de produto.
-  • Gráfico de Rosca: Estoque atual em cada uma das lojas.
-  • Indicador: Indica a média atual dos descontos aplicados em percentagem.
+  * Slicer: Foram adicionados 2 slicers onde é possível realizar filtros por ano e loja.
+  * Funil: Quantidade vendida por categoria de produto.
+  * Gráfico de colunas empilhadas: Quantidade vendida por marca de produto.
+  * Gráfico de Rosca: Estoque atual em cada uma das lojas.
+  * Indicador: Indica a média atual dos descontos aplicados em percentagem.
+
+<div align="center" >
+  <img src="BikeStores_page-0003.jpg">
+</div>
 
 Foi criada ainda uma quarta página onde há análise referente aos principais influenciadores que fazem o preço aumentar ou diminuir. O acesso a essa página é feito através do botão de informação contido na página de faturamento no item “TOP 5 Produtos por faturamento”.
 
 <div align="center" >
-  <img src="BikeStores_page-0001.jpg">
-</div>
-<div align="center" >
-  <img src="BikeStores_page-0002.jpg">
-</div>
-<div align="center" >
-  <img src="BikeStores_page-0003.jpg">
-</div>
-<div align="center" >
   <img src="BikeStores_page-0004.jpg">
 </div>
+
+
+_________________
+
 
 
 ### Manutenção de Equipamentos Industriais

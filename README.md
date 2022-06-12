@@ -51,7 +51,7 @@ Na página de produtos foram inseridos os itens:
 
 <br />
 
-Foi criada ainda uma quarta página, oculta no menu, onde há análise referente aos principais influenciadores que fazem o preço aumentar ou diminuir. O acesso a essa página é feito através do botão de informação contido na página de faturamento no item “TOP 5 Produtos por faturamento”.
+Foi criada ainda uma quarta página, oculta no menu, onde há análise referente aos principais influenciadores que fazem o preço aumentar ou diminuir. O acesso a essa página é feito por meio do botão de informação contido na página de faturamento no item “TOP 5 Produtos por faturamento”.
 
 <br />
 
@@ -61,12 +61,12 @@ Foi criada ainda uma quarta página, oculta no menu, onde há análise referente
 
 <br />
 
-Foi inserida ainda uma análise de pareto com o intuito de identificar as marcas que refletem o maior faturamento. O acesso a essa página é feito através do botão de informação contido na página de produtos no item “Quantidade vendida por marca”.
+Foi inserida ainda uma análise de pareto com o intuito de identificar as marcas que refletem o maior faturamento. O acesso a essa página é feito por meio do botão de informação contido na página de produtos no item “Quantidade vendida por marca”.
 
 <br />
 
 <div align="center" >
-  <img src="BikeStores_page-0005.jpg">
+  <img src="BikeStores_page-0005.JPG">
 </div>
 
 <br />

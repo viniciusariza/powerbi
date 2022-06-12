@@ -43,6 +43,8 @@ Na página de produtos foram inseridos os itens:
   * Gráfico de Rosca: Estoque atual em cada uma das lojas.
   * Indicador: Indica a média atual dos descontos aplicados em percentagem.
 
+<br />
+
 <div align="center" >
   <img src="BikeStores_page-0003.jpg">
 </div>

@@ -81,6 +81,7 @@ _________________
 Acessar relatório: <a href="https://app.powerbi.com/view?r=eyJrIjoiYzA3MWE5MTEtMDFiMS00ZjJlLTljNjItMjY4ZDY4ZWI4YjllIiwidCI6IjkyNzQyZWFlLWExMTktNDNmYi1hOTU2LWQ3ZGVmNzQ0ODgxYSIsImMiOjh9&pageName=ReportSection7762183af277fdd49fa2">Manutenção de Equipamentos Industriais</a>.
 
 Com o objetivo de complementar a pratica de criação de medidas, foi elaborado mum relatório de BI com a base dados desenvolvida pelo autor, disponível no repositório <a href="https://github.com/viniciusariza/bd-equip-industriais">bd-equip-industriais</a>.
+<br />
 Importante ressaltar que, como os dados não representam a realidade e foram obtidos aleatóriamente, o relatório não permite a realização de análises reais.
 
 <br />
